@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "oauth.token.id",
+      "type": "java.lang.String",
+      "description": "Description for oauth.token.id."
+    },
+    {
+      "name": "oauth.token.password",
+      "type": "java.lang.String",
+      "description": "Description for oauth.token.password."
+    },
+    {
+      "name": "oauth.token.start_url",
+      "type": "java.lang.String",
+      "description": "Description for oauth.token.start_url."
+    },
+    {
+      "name": "oauth.token.callback_url",
+      "type": "java.lang.String",
+      "description": "Description for oauth.token.callback_url."
+    }
+  ]
+}
